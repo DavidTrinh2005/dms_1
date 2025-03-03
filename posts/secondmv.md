@@ -7,6 +7,6 @@ allow_math: true
 ---
 # This is h1
 
-![a group selfie](logo.svg)
+![VendingMachine](static/vendingmachine.jpg)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
