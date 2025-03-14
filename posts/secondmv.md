@@ -7,7 +7,7 @@ allow_math: true
 ---
 # This is h1
 
-![VendingMachine](static/vendingmachine.jpg)
+![VendingMachine](/w01s1/Vending%20Machine.jpg)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
