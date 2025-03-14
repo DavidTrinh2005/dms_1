@@ -7,7 +7,7 @@ allow_math: true
 ---
 # This is h1
 
-![GroupSelfie](/w01s1.md/VendingMachine.jpg)
+![GroupSelfie](/w01s1/VendingMachine.jpg)
 
 
 
