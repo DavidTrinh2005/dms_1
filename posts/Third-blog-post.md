@@ -9,6 +9,7 @@ allow_math: true
 
 ![GroupSelfie](/w01s1/VendingMachine.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5VaKdkievIk?si=tiwIJ1Kg7u1ejDJD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
