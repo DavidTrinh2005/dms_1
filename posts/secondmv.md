@@ -7,7 +7,19 @@ allow_math: true
 ---
 # This is h1
 
+SCAVENGER HUNT
+
 ![VendingMachine](/w01s1/Vending%20Machine.jpg)
+
+![Studyselfie](/static/w01s1/Studylounge.webp)
+
+![RootSelfie](/static/w01s1/Roots.webp) 
+
+![LibraryPic](/static/w01s1/Library.webp) 
+
+![HandSelfie](/static/w01s1/Hand.webp) 
+
+![DungeonPic](/static/w01s1/Dungeon.webp) 
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
