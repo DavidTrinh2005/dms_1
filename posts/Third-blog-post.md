@@ -1,5 +1,5 @@
 --- 
-title: This is my FIRST post! (Week 1, Session 1)
+title: This is my FIRST post! (Week 1, Session 2)
 published_at: 2025-07-03
 snippet: 30 second clip
 disable_html_sanitization: true
