@@ -1,7 +1,7 @@
 ---
 title: This is a FIFTH blog post! (Week 2, Session 2)
 published_at: 2025-21-03
-snippet: An snapshot into my storyboard
+snippet: Attention, Emotion, and Materialisation
 disable_html_sanitization: true
 allow_math: true
 ---
