@@ -1,5 +1,5 @@
 ---
-title: This is my SECOND blog post! (Week 1, Session 2)
+title: This is my SECOND blog post! (Week 1, Session 1)
 published_at: 2025-03-03
 snippet: Scavenger Hunt
 disable_html_sanitization: true
