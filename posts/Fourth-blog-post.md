@@ -11,12 +11,12 @@ My self portrait shortfilm will encapsulate the duality between my previous mund
 With the idea of this shortfilm being captured in the cinematic mode, I want to utilise fade in and fade outs for dramatical impact. To illicit the mundane everyday student life I want to do quick cuts between shots to showcase how fast the days go by. To illicit the feeling of emptiness and a desire for more, I purposefully won't include myself too often in the particular shots to visuall represent that I am not wholeheartedly present in the moment. 
 
 
-![Storyboard1](/static/w01s1/Storyboard1.webp)
+![Storyboard1](/w01s1/Storyboard1.webp)
 
-![Storyboard2](/static/w01s1/Storyboard2.webp)
+![Storyboard2](/w01s1/Storyboard2.webp)
 
-![Storyboard3](/static/w01s1/Storyboard3.webp)
+![Storyboard3](/w01s1/Storyboard3.webp)
 
-![Storyboard4](/static/w01s1/Storyboard4.webp) 
+![Storyboard4](/w01s1/Storyboard4.webp) 
 
-![Storyboard5](/static/w01s1/Storyboard5.webp) 
+![Storyboard5](/w01s1/Storyboard5.webp) 
