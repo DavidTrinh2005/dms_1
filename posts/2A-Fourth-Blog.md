@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-(absent)
+[absent]
 
 This session we brushed back upon the various design tools provided in the Illustrator program to enahnce the visual clarity of our icons. 
 
@@ -14,9 +14,9 @@ This session also marks the beginning of our HTML, CSS, and JS activity where we
 
 ### Shapes and Forms 
 
-![ShapesandForms](/static/w01s1/Shapes%20Configuration.png) 
+![ShapesandForms](/w01s1/Shapes%20Configuration.png) 
 
 ### HTML Shapes Task
 
-![HtmlShapes](/static/w01s1/HTML%20&%20Shapes.png)
+![HtmlShapes](/w01s1/HTML%20&%20Shapes.png)
 
