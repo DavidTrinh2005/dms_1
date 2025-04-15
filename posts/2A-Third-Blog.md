@@ -6,15 +6,19 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-This week we explored the complexities of colour and colour theory, drawing in pre-existing ideas and concepts of shape, composition, line, and etc...
+***This week we explored the complexities of colour and colour theory, drawing in pre-existing ideas and concepts of shape, composition, line, and etc...***
 
 For a segment in our lession, we explored colour association and the discussion of geo-locations were brought up. The link below demonstrates how differing colours representing a feeling or emotion best captures the different countries. 
 
 https://informationisbeautiful.net/visualizations/colours-in-cultures/ 
 
+### Pen Tool Task
+
 ![PenToolTask](/w01s1/Bezio%20Tool%20Task.png) 
 
 Here, I have also began designing my icons in accordance to the pre-existing design ideas that I have established. I experimented around with various tools to optimise my effeciency going into the few final designs. 
+
+### Illustrator Icon Designs 
 
 ![TriDesigns](/static/w01s1/Old%20Icon%20Design.png) 
 
