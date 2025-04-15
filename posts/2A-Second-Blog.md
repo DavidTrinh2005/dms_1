@@ -10,9 +10,9 @@ In the second half of the week we brushed back upon the theory and design elemen
 
 ### 15 MINUTE DESIGNS
 
-![Coffee1](/static/w01s1/Coffee%20#1.webp)
+![Coffee1](/w01s1/Coffee%20#1.webp)
 
-![Coffee2](/static/w01s1/Coffee%20#2.webp) 
+![Coffee2](/w01s1/Coffee%20#2.webp) 
 
 We were also tasked to create several graphic designs icons. For every individual con, we were prompted to sketch five sketches per icon (making 45 icons). I went for a more cartoon-y aesthetic/design as I felt that it suits more of the Iphone icon design style. Popular web apps such as Snapchat, Facebook, and Instagram take on very minimalistic and geometrical design form which is something that I wish to take on. 
 
