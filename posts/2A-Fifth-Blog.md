@@ -1,6 +1,6 @@
 ---
 title: Week 6,  Session 1
-published_at: 2022-24-03
+published_at: 2022-11-04
 snippet: Black Boards
 disable_html_sanitization: true
 allow_math: true
