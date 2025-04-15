@@ -1,6 +1,6 @@
 ---
 title: Week 5,  Session 2
-published_at: 2022-24-03
+published_at: 2022-07-04
 snippet: HTML
 disable_html_sanitization: true
 allow_math: true
