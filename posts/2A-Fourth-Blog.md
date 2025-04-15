@@ -12,7 +12,11 @@ This session we brushed back upon the various design tools provided in the Illus
 
 This session also marks the beginning of our HTML, CSS, and JS activity where we began configuring with these programming softwares. We utilised the HTML template provided in order to develop the beginning of our understanding as to how we would approach configuring the sounds, icons, and transitions for our final assignment. 
 
+### Shapes and Forms 
+
 ![ShapesandForms](/static/w01s1/Shapes%20Configuration.png) 
+
+### HTML Shapes Task
 
 ![HtmlShapes](/static/w01s1/HTML%20&%20Shapes.png)
 
