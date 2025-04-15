@@ -18,11 +18,11 @@ We were also tasked to create several graphic designs icons. For every individua
 
 ### ICON DESIGNS
 
-![Logo1](/static/w01s1/Logo%20Design%20#1.webp)
+![Logo1](/w01s1/Logo%20Design%20#1.webp)
 
-![Logo2](/static/w01s1/Logo%20Design%20#2.webp)
+![Logo2](/w01s1/Logo%20Design%20#2.webp)
 
-![Logo3](/static/w01s1/Logo%20Design%20#3.jpg)
+![Logo3](/w01s1/Logo%20Design%20#3.jpg)
 
 I really resignated with the theme of 'moment' and so I've decided to take on the idea of an all encompassing fitness tracker. The idea is to have each and every individual icon represent a different sector of health and fitness. The icons should provide the market audience with a audiovisionary interaction upon clicking it before direct them into the main webpage where all the tracking information and database is avaliable. 
 
