@@ -7,6 +7,7 @@ allow_math: true
 ---
 
 # Unity Hub
+
 --- 
 
 ## Spatial Environment Modelling 
@@ -35,17 +36,6 @@ This here was my finished product. The design is rather simple yet intuitive, I 
 --- 
 
 
-
-
-
-
-
-
-
-
-
---- 
-![PlanetFitness](/w01s1/Planet%20Fitness.png)
 
 
 
