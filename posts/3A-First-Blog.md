@@ -1,6 +1,6 @@
 ---
 title: Week 7,  Session 1
-published_at: 2022-21-04
+published_at: 2025-21-04
 snippet: Unity Hub
 disable_html_sanitization: true
 allow_math: true
