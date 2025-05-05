@@ -12,11 +12,11 @@ allow_math: true
 
 ## Land Texture Experimentation
 
-In our second lesson, we went through the slides containing fundemental spatial design elements and concepts. After this brief, we fired Unity Hub and developed a system for creating land textures and mass. We dedicated time to creating and modifying our environments and landscapes. 
+In our second lesson, we went through the slides containing fundemental spatial design elements and concepts. After this brief, we fired Unity Hub and developed a system for creating land textures and mass. We dedicated time to creating and modifying our environments and landscapes. Mx. Thomas did a run through on how to incorporate land peaks and mountains in our space and further proceeded by teaching us how to add a texture layer on the mountain. I opted for a sandy texture with stoney mountainous peaks. 
 
 ![LandMaking](/w01s1/land%20making.png)
 
 
 --- 
 
-##
+## 
