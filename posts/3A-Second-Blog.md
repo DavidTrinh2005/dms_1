@@ -16,6 +16,8 @@ In our second lesson, we went through the slides containing fundemental spatial 
 
 ![LandMaking](/w01s1/land%20making.png)
 
+![Mountains](/w01s1/Mountain%20Sets.webp)
+
 --- 
 
 # Homework

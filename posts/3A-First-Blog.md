@@ -43,6 +43,7 @@ This here was my finished product. The design is rather simple yet intuitive, I 
 
 I have created a mindmap with a series of emotions and themes associated to them. I have chosen to make three individual encounters that represent the following emotions; sadness and grief, hopeful and joy, and happy and peaceful. My goal is to form three open worlds that represent different periods of time and the emotions associated with it. I chose this transformation in particular because I felt that the most creative ideas come from the most personal experiences. 
 
+
 ![Mindmap](/w01s1/Mindmap.webp)
 
 

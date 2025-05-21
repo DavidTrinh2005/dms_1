@@ -18,9 +18,13 @@ On a contrasting note, Mx Thomas also taught us how to implement terrain height 
 
 ---
 
+![ForestCreature](/w01s1/TungTungTungSahur.webp) 
+
+---
+
 # Homework
 
 For this session, I began implementing asset overlays on my pre-existing primitives. I began with city buildings that I've manipulated to give differing size effects. I toggled around with the scale menu containing the X,Y, and Z catalogue to give off a tall, wide, and long effect to my buildings. I also added a plane and placed a texture mod on it to paint out a road and side walks to provide depth to my city scape. 
 
 
-![CityScape](/w01s1/CityScape.jpg)
+![CityScape](/w01s1/CityScape.jpg) 
