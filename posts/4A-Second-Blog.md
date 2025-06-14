@@ -20,13 +20,13 @@ I have attached a document, detailing my artist statement, images, and quotes fo
 
 ![Portfolio](/w01s1/Portfolio.png)
 
-![Page1](/static/w01s1/Page1.png)
+![Page1](w01s1/Page1.png)
 
-![Page2](/static/w01s1/Page2.png)
+![Page2]/w01s1/Page2.png)
 
-![Page3](/static/w01s1/Page3.png)
+![Page3](/w01s1/Page3.png)
 
-![Page4](/static/w01s1/Page4.png)
+![Page4](/w01s1/Page4.png)
 
 
 
