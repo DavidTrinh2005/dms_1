@@ -1,6 +1,6 @@
 ---
 title: Week 11, Lesson 2
-published_at: 30-05-2025
+published_at: 2025-30-05
 snippet: Accessible Web Design Slides 
 disable_html_sanitization: true
 allow_math: true

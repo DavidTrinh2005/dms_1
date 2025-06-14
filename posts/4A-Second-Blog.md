@@ -1,6 +1,6 @@
 ---
 title: Week 10, Lesson 2
-published_at: 23-05-2025
+published_at: 2025-23-05
 snippet: Web Design Basics 
 disable_html_sanitization: true
 allow_math: true

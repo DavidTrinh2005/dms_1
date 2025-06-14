@@ -1,6 +1,6 @@
 ---
 title: Week 11, Lesson 1
-published_at: 26-05-2025
+published_at: 2025-26-05
 snippet: Wireframing
 disable_html_sanitization: true
 allow_math: true

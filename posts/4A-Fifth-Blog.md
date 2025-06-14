@@ -1,6 +1,6 @@
 ---
 title: Week 12, Lesson 1
-published_at: 02-06-2025
+published_at: 2025-02-06
 snippet: Student Feedback
 disable_html_sanitization: true
 allow_math: true
