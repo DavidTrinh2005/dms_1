@@ -22,7 +22,7 @@ I have attached a document, detailing my artist statement, images, and quotes fo
 
 ![Page1](w01s1/Page1.png)
 
-![Page2]/w01s1/Page2.png)
+![Page2](/w01s1/Page2.png)
 
 ![Page3](/w01s1/Page3.png)
 
