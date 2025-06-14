@@ -18,9 +18,15 @@ I have attached a document, detailing my artist statement, images, and quotes fo
 
 ---
 
-![FinalDraft](/w01s1/FINAL%20DRAFT%20(1).docx)
-
----
-
 ![Portfolio](/w01s1/Portfolio.png)
+
+![Page1](/static/w01s1/Page1.png)
+
+![Page2](/static/w01s1/Page2.png)
+
+![Page3](/static/w01s1/Page3.png)
+
+![Page4](/static/w01s1/Page4.png)
+
+
 

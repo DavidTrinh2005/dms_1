@@ -1,5 +1,5 @@
 ---
-title: Week 10, Lesson 2
+title: Week 10, Lesson 1
 published_at: 23-05-2025
 snippet: Critcal Reflection
 disable_html_sanitization: true

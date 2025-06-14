@@ -15,3 +15,5 @@ Unfortunately, I couldn't showcase my work during the session as I was boarding 
 + Shrinken your text to fit beside the image
 + Use an animation or icon component that can take you back to the main page
 + Indicate that the icon used to link the projects should have some sign to tell the viewer that it is the project
+
+---

@@ -18,13 +18,13 @@ In this session, we sourced popular web pages and utilised the column grid overl
 
 ## Wireframe Image (Before and After)
 
-![Pinterest](/static/wireframe%20app.png)
+![Pinterest](/w01s1/wireframe%20app.png)
 
 
 ![before](/w01s1/2.png)
 
 
-![after](/static/Wireframe.png)
+![after](/w01s1/Wireframe.png)
 
 
 ---
