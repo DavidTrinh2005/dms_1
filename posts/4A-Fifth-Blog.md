@@ -17,3 +17,7 @@ Unfortunately, I couldn't showcase my work during the session as I was boarding 
 + Indicate that the icon used to link the projects should have some sign to tell the viewer that it is the project
 
 ---
+
+With all said and done, I went back on my web page and began implementing the feedback. I shrunk the text and added subheadings to tidy things up. I made a simple icon that once clicked, will take you back to the main page as previous feedback mentioned that scrolling back up or having to reload the page was a tedious task that should be avoided. 
+
+I wanted to keep the icon displaying my work, I added a pause button to indicate that a video or playable material is embedded inside of the file icon. It's a simple addition but will make much more sense than simply a stationary drop down icon without much instruction or value behind it. 
